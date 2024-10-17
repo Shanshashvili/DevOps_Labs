@@ -1,4 +1,4 @@
-# **Web Servers:**
+# **Web Server:**
   ## Apache HTTPD
 
 ### 1. **Apache HTTPD Installation and Basic Configuration**
