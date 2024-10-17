@@ -1,7 +1,5 @@
 # CCNA – Routing and Switching
 
-## During my CCNA studies, I had the opportunity to engage in hands-on labs and deepen my understanding of networking concepts:
-
 1. Configured switches, routers, and end devices using Cisco Packet Tracer and in lab environments.
 2. Developed a strong understanding of networking protocols and models, including OSI and TCP/IP.
 3. Explored network security fundamentals and applied LAN security concepts to protect network resources.
